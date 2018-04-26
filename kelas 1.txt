@@ -1,0 +1,54 @@
+lulkman :
+	assets
+		backend
+		frontend
+setelah buat di github :
+css dari irsyad di timpa oleh lisa
+Database : ma_nusa 
+benckend :
+-beranda (jumlah data, table calon siswa baru)
+-Sekolah 
+   - Laporan data siswa (tabel siswa: id,nis,nisn,nama depan, nama belakang, kota/kab lahir, tanggal lahir, alamat tinggal, jenis kelamin, agama, nama ibu, nama ayah, nama wali, no telephon orangtua/wali, alamat orangtua, alamat wali, photo siswa, password, status, created, modified, account_id)
+   - Laporan data alumni (tabel alumni : id, nama depan, nama belakang, pekerjaan, tahun lulus, created, modified, account_id)
+   - Laporan data tenaga pendidik
+   - Laporan data staff
+   - Laporan data Siswa Baru
+-Master Data
+   - data kelas
+   - data mata palajaran
+   - data inventaris barang
+   - data Ekstrakulikuler
+   - data calon siswa baru
+   - data staff
+   - data user
+-Berita dan Info
+   - Data Berita (id, title berita, isi berita, image berita, kategori berita, created, modified, account_id)
+   - Data Kategori (id, kategori, created, modified, account_id)
+   - Galeri
+-Pengaturan
+   - Modul (id, title modul, link modul, created, modified, account_id)
+   - Menu (id, Title Menu, Link Menu, created, modified, account_id)
+   - Submenu (id, title submenu, link submenu, id_menu, created, modified, account_id)
+   - Usergorup (id, usergroup, label usergroup)
+   - Login Page 
+   - Hakakses
+- Logout/Keluar Aplikasi
+
+deadline (1 mei 2018)
+
+frontend:
+- Beranda
+- Berita Dan Info
+- Struktur Organisasi
+- sejarah
+- kurikulum
+- galery
+- psb
+    - Pendaftaran Calon Siswa Baru
+    - Login
+
+(Deadline : 30 April 2018)
+   
+
+
+
